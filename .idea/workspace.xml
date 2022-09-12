@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64b12d82-032e-40f8-86a4-e4c03603b2a2" name="Changes" comment="Testing changes">
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+    <list default="true" id="64b12d82-032e-40f8-86a4-e4c03603b2a2" name="Changes" comment="Fixing checkstyle errors:&#10;Missing javadoc&#10;Indentations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/comp2522/java/org/comp2522/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comp2522/java/org/comp2522/Main.java" afterDir="false" />
     </list>
@@ -55,11 +54,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/Brian/IdeaProjects/2522",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
   <component name="RunManager">
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662944799013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Testing changes">
+      <created>1662945359303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662945359303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Edited greetings in Main.java." />
     <MESSAGE value="Testing changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing changes" />
+    <MESSAGE value="Fixing checkstyle errors:&#10;Missing javadoc&#10;Indentations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing checkstyle errors:&#10;Missing javadoc&#10;Indentations" />
   </component>
 </project>
